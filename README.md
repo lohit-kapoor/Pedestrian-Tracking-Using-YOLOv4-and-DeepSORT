@@ -3,9 +3,9 @@
 To run the code on Google Colab, follow instructions as below:
 
 1. Clone repository for deepsort with yolov4:
-   '''
-    !git clone https://github.com/lohit-kapoor/Pedestrian-Tracking-Using-YOLOv4-and-DeepSORT.git
-   '''
+'''
+!git clone https://github.com/lohit-kapoor/Pedestrian-Tracking-Using-YOLOv4-and-DeepSORT.git
+'''
     
 2. Step into the Pedestrian-Tracking-Using-YOLOv4-and-DeepSORT folder:
     %cd Pedestrian-Tracking-Using-YOLOv4-and-DeepSORT
